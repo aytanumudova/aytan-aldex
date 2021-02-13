@@ -37,6 +37,14 @@
                 background-color: #fff;
             }
             
+            .product-thumb img {
+                opacity: 1;
+            }
+            
+            .product-thumb img:hover {
+                opacity: 0.7;
+            }
+            
             .caption a {
                 color: rgb(63, 63, 63)!important;
             }

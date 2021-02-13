@@ -3414,8 +3414,8 @@ input[type="button"].btn-block {
     list-style: none;
     background-color: rgba(0, 0, 0, 0.486);
     border: 1px solid rgba(0, 0, 0, 0.15);
-    border-bottom-left-radius: 7px;
-    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
 }
 
 .dropdown-menu-left {
